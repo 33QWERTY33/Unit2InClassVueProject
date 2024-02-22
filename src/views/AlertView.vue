@@ -1,7 +1,7 @@
 <!-- AlertView.vue -->
 <template>
     <main>
-        <button @click="showAlert">Show Alert</button>
+        <button class = "btn btn-outline-primary" @click="showAlert">Show Alert</button>
     </main>
 </template>
 
